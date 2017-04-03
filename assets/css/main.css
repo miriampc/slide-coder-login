@@ -1,0 +1,45 @@
+*{
+  font-family: 'Dosis', sans-serif;
+  /*font-family: 'Amaranth', sans-serif;*/
+  /*font-family: Geneva, Arial, Helvetica, sans-serif;*/
+  box-sizing: content-box;
+}
+.principal{
+  text-align: center;
+  width: 300px;
+  margin-left:35%;
+  margin-top: 5%;
+
+}
+.header{
+  /*width: 50%;
+  height: auto;*/
+}
+.body{
+    border: 2px solid #ccc;
+    border-radius: 10px;
+}
+.body input, button{
+  height: 40px;
+  width: 250px;
+  border-radius: 5px;
+}
+#log-in{
+  border-style: none;
+  background-color: #178A74;
+  color: #D5F8F1;
+  font-size: large;
+  margin-top: 5%;
+  margin-bottom: 5%;
+}
+#log-in:hover{
+  background-color: #49C4A0;
+  font-weight: bold;
+}
+input{
+  border:1px solid #d1d5da;
+  /*outline: none;*/
+}
+.foot{
+  padding: 10px;
+}
